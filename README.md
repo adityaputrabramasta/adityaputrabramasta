@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adityaputrabramasta"><img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aditya-putra-bramasta-781b43415/"><img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aditiyaputra8674@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://github.com/adityaputrabramasta"><img src="https://komarev.com/ghpvc/?username=adityaputrabramasta&label=Profile%20Views&color=1E88E5&style=flat-square" alt="Profile Views" /></a>
 </p>
