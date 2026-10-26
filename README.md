@@ -52,10 +52,10 @@ Building high-throughput API gateways, transactional automation backends, and di
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/github-streak.svg?v=1793016237" alt="GitHub contribution streak" width="100%" />
+      <img src="./assets/streak-v2.svg" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/github-stats.svg?v=1793016237" alt="Aditya's GitHub Stats" width="100%" />
+      <img src="./assets/stats-v2.svg" alt="Aditya's GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
