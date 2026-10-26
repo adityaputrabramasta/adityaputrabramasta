@@ -52,17 +52,13 @@ Building high-throughput API gateways, transactional automation backends, and di
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=adityaputrabramasta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" width="100%" />
+      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaputrabramasta&theme=tokyonight&hide_border=true" alt="Aditya's Streak" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=adityaputrabramasta&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=94A3B8&icon_color=38BDF8&count_private=true" alt="Aditya's GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaputrabramasta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</p>
 
 ## Contribution Activity
 
